@@ -21,12 +21,6 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="SQLQuery1.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
-        </FileNode>
         <FileNode Name="SQLQuery1-INSERT Directions.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-V8J6DV4\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
@@ -38,6 +32,24 @@
           <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1-INSERT Groups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2-SELECT COUNT  Students AND Groups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-V8J6DV4\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-SELECT COUNT  Students AND Groups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2-SELECT COUNT Disciplines OF Directions .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-V8J6DV4\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-SELECT COUNT Disciplines OF Directions .sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2-SELECT COUNT Disciplines OF Teachers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-V8J6DV4\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2-SELECT COUNT Disciplines OF Teachers.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery2-SELECT COUNT Groups and Students.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-V8J6DV4\SQLEXPRESS:True</AssociatedConnectionMoniker>
@@ -62,6 +74,18 @@
           <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery4-SELECT Teachers AND Disciplines.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5-DELETE Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-V8J6DV4\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5-DELETE Schedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5-SELECT Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-V8J6DV4\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-V8J6DV4\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5-SELECT Schedule.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
